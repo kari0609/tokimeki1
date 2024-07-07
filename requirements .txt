@@ -1,0 +1,7 @@
+﻿numpy
+tkinter
+time
+datetime,timedelta
+pandas
+PIL image
+css
